@@ -12,3 +12,5 @@ app.use('/clientes', clienteRoutes);
 app.listen(port, () => {
 console.log(`Servidor rodando em http://localhost:${port}`);
 });
+
+//eu fiz e passei pro samuel
